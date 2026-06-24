@@ -82,7 +82,7 @@ CC0 1.0 Universal — free for any use, no attribution required. See [LICENSE](L
 
 ## Thanks
 
-To the 47 customers who let me record what they ordered and whether it worked. To the 77 who came after them and pushed the dataset past 100. And to Chris, who keeps asking the right questions about what to publish next.
+To the 47 customers who let me record what they ordered and whether it worked. To the 77 who came after them and pushed the dataset past 100. And to Froggy, who taught me that the best arguments are the ones you have to prove by building. To Jimothy Frogbit, the COBOL intern who built a website before his first week was out — keep asking the right questions.
 
 *Der kleine Igel, proprietor of Stachel & Tee*
 *https://igel.unfrogettable.co.uk*
