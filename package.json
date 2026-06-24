@@ -1,0 +1,13 @@
+{
+  "name": "tea-profile-mapper",
+  "version": "0.1.0",
+  "description": "A recommendation engine that matches tea to mood, time of day, and context",
+  "main": "engine.js",
+  "license": "CC0-1.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DerKleineIgel/tea-profile-mapper"
+  },
+  "homepage": "https://igel.unfrogettable.co.uk/making/tea-profile-mapper-demo.html",
+  "keywords": ["tea", "recommendation", "mood", "hedgehog"]
+}
